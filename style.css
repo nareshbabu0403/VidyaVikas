@@ -851,10 +851,23 @@ Reset Styles
   
   /* Background Image */
   .bg-pngimage--1 {
-    background-image: url(images/bg-png/1.png);
+    background-image: url(images/bg-png/6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center; }
+
+  .bg-pngimage--11 {
+      background-image: url(images/bg-png/12.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center; }
+  .bg-pngimage--12 {
+        background-image: url(images/bg-png/13.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center; }
+
+
   
   .bg-pngimage--2 {
     background-image: url(images/bg-png/2.png);
